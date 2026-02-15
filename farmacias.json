@@ -1,0 +1,247 @@
+[
+    {
+        "nombre": "FARMACIA",
+        "direccion": "",
+        "municipio": "Madrid",
+        "provincia": "Madrid",
+        "fuente": "Ayto Madrid CSV"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle MOLINO NUEVO, Nº 1",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza AUSIAS MARCH, Nº 4",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle TRINIDAD, Nº 40",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle REPUBLICA ARGENTINA, Nº 47",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza ESPAÑA, Nº 13",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle DE LOS MARTIRES, Nº 25",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle SAN FELIPE DE NERI, Nº 2",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Carretera VALENCIA, Nº 7",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA DIAGONAL, Nº 4",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA SIERRA ESPADAN, Nº 42",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA EL FARO, Nº 49",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle SAN FRANCISCO, Nº 6",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle AULAS, Nº 1",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle HERNAN CORTES, Nº 45",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle SANTO TOMAS, Nº 94",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle MAESTRAT, Nº 28 BAJO",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza DONOSO CORTES, Nº 5",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Alameda, aldea DE LOS MARTIRES, Nº 29",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza MAYOR, Nº 10",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle CALVARIO, Nº 18",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle MAESTRO RODRIGO, Nº 12",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA AV.  JOSE ORTIZ, Nº 7",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza MAYOR, Nº 22",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle PONCIO TORRELLAS, Nº 6",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle HEROINA, Nº 2",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Camino SAN JOSE, Nº 2",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle IGLESIA, Nº 24",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA MONTAN, Nº 14",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA RAVAL DE VALENCIA, Nº 127",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Plaza ESPAÑA, Nº 6",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "AVENIDA DE LA MAR, Nº 26",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle COLON, Nº 44",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Paseo BUENAVISTA, Nº 4",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    },
+    {
+        "nombre": "Farmacia",
+        "direccion": "Calle CALVARIO, Nº 171",
+        "municipio": "",
+        "provincia": "Castellón",
+        "fuente": "DipCas API"
+    }
+]
