@@ -1,0 +1,2322 @@
+[
+  {
+    "nombre": "ABEIJÓN FERNÁNDEZ MARÍA",
+    "direccion": "Lugar de A Devesa 1 - A Pobra do Caramiñal - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.598246",
+    "lng": "-8.942952",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "BARREIRO SALVADO JUAN JOSÉ",
+    "direccion": "c/Neira Vilas 2 - Arzúa - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.926765",
+    "lng": "-8.163929",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "BELO ASTRAY OLGA",
+    "direccion": "Santa Lucía 44 - A Laracha - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.247097",
+    "lng": "-8.588393",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "BLAS LÓPEZ FRANCISCO JAVIER",
+    "direccion": "Fonte da Iglesia, 38 - As Somozas - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.533694",
+    "lng": "-7.943614",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CANZOBRE MIRANTES BEATRIZ Y CANZOBRE MIRANTES LAURA",
+    "direccion": "Cela - A Patiña 2 - Cambre - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.289553",
+    "lng": "-8.33648",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CASTRO MARTÍN IGNACIO",
+    "direccion": "Av. Fernández Latorre 51 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.355514",
+    "lng": "-8.404213",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CERQUEIRAS PÉREZ BEATRIZ",
+    "direccion": "Irmáns Ínsua, 23 - Rianxo - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.653587",
+    "lng": "-8.815613",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CORNES RODRÍGUEZ JOSÉ MANUEL",
+    "direccion": "Pol. de Fontiñas - Rúa de Madrid 12 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.88392",
+    "lng": "-8.526703",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CRUCES ZABALA MARÍA SOLEDAD Y MARTÍN CRUCES BENJAMÍN",
+    "direccion": "Rúa Fanequeira 7 - Noia - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.781976",
+    "lng": "-8.887947",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "DE CAL DE LA FUENTE BEATRIZ Y DE CAL DE LA FUENTE CARLOS",
+    "direccion": "Av. de Galicia 82 - As Pontes - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.448712",
+    "lng": "-7.856323",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "DÍAZ-SARABIA DEIVE ANA M.ª",
+    "direccion": "Av. de la Constitución 14 - Cariño - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.740589",
+    "lng": "-7.870911",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "FIGUEROA ROO JESUS FLORINDO",
+    "direccion": "Rúa Camiño do Pino 81 - Narón - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.50023",
+    "lng": "-8.187364",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "FUENTES BERNÉ PILAR PALOMA",
+    "direccion": "Areal 4 - Cabanas - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.413635",
+    "lng": "-8.167771",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GALEGO CORUJO LAURA",
+    "direccion": "O Pindo - Carretera Finisterre-Tuy 265 - Carnota - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.895087",
+    "lng": "-9.134307",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GARCÍA CARBALLEIRA M.ª JOSEFA",
+    "direccion": "Plaza del Hospital 6 - As Pontes - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.447298",
+    "lng": "-7.852662",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GARCÍA GONZÁLEZ MARÍA DEL CARMEN",
+    "direccion": "Uxes - Travesía de Uxes 16 - Arteixo - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.300271",
+    "lng": "-8.448459",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GIMÉNEZ ARUFE MARÍA SOLEDAD Y GÓMEZ PRECEDO LUIS ALBERTO",
+    "direccion": "Vázquez de Parga 157 - Carballo - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.21937",
+    "lng": "-8.68727",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GÓMEZ ANTELO MARÍA PILAR F.",
+    "direccion": "Jacinto Rodríguez s/n - A Baña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.960731",
+    "lng": "-8.758652",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GÓMEZ LÓPEZ Mª JOSÉ",
+    "direccion": "Meirás - O Piñeiro 5 B - Sada - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.355877",
+    "lng": "-8.297218",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GÓMEZ VILLALOBOS MARÍA DEL CARMEN",
+    "direccion": "Av. Rosalía de Castro 54 - Laxe - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.219575",
+    "lng": "-9.0053",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GONZÁLEZ SALGADO MERCEDES E.",
+    "direccion": "Praza Portal 28 - Sobrado - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.0405",
+    "lng": "-8.023155",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "LEMA LEMA MARÍA NAZARET",
+    "direccion": "Rúa Trasariz 56 - Vimianzo - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.11298",
+    "lng": "-9.034064",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "LESTÓN FABEIRO MIGUEL",
+    "direccion": "Av. da Marina Española 119 - Muros - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.778054",
+    "lng": "-9.059989",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MACEIRAS BIDEGAIN JAIME",
+    "direccion": "Carretera de Castilla 384-386 - Narón - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.50707",
+    "lng": "-8.185145",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MARTÍN ROIG LUIS Y ROIG NADAL ANA MARÍA",
+    "direccion": "O Burgo - Visitación de la Encina 8 - Culleredo - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.316354",
+    "lng": "-8.368522",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MARTINEZ-REBOREDO FERREIRO NATALIA",
+    "direccion": "O Milladoiro - Rúa de Abaixo 21 - Ames - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.847363",
+    "lng": "-8.577659",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "OTERO PRIETO MANUEL GONZALO",
+    "direccion": "Av. Castelao 5 - Cedeira - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.660041",
+    "lng": "-8.052857",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PÁJARO LAGO DIVINA M.ª",
+    "direccion": "Alfonso Senra 88 - Ordes - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.077574",
+    "lng": "-8.407199",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PERTEAGUDO VAZQUEZ ANA ISABEL",
+    "direccion": "Ronda de Pontevedra 69 - Melide - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.909245",
+    "lng": "-8.015602",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PICANES SILVA AGUSTÍN",
+    "direccion": "Escarabote - Escarabotiño 18-20 - Boiro - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.636394",
+    "lng": "-8.904731",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PICATOSTE LEGAZPI RITA",
+    "direccion": "Av. Jesús García Naveira 3 - Betanzos - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.278557",
+    "lng": "-8.211101",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "POSE ARUFE MANUEL",
+    "direccion": "Av. de Alfonso Molina 71 - Santa Comba - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.033947",
+    "lng": "-8.810103",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "POSE VILARNOVO BEATRIZ",
+    "direccion": "Torre 54 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.375535",
+    "lng": "-8.398064",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PRIETO FILGUEIRA MARÍA JOSÉ",
+    "direccion": "San Juan de Piñeiro - Camiño Grande 92 - Mugardos - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.43586",
+    "lng": "-8.198694",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "QUEIJEIRO RILO LEONOR",
+    "direccion": "Av. del Pasaje - Carretera O Burgo 31 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.330245",
+    "lng": "-8.3841",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "REY TORRES NOA",
+    "direccion": "Real 3 - Pontedeume - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.406621",
+    "lng": "-8.170592",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "SABORIDO QUINTELA JUAN MANUEL",
+    "direccion": "Av. do Malecón 1 - Ribeira - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.553979",
+    "lng": "-8.989586",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "SANDOMINGO LÓPEZ ELENA Y SANDOMINGO LÓPEZ MANUEL",
+    "direccion": "Paseo Eusebio Davila10 - Ortigueira - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.684085",
+    "lng": "-7.8538258",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "SOSA RON JUANA",
+    "direccion": "Oín - Samil - Rois - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.760465",
+    "lng": "-8.689606",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "VÁZQUEZ SUÁREZ JACOBO Y VÁZQUEZ SUÁREZ JAVIER JESÚS",
+    "direccion": "República Argentina 43 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.871734",
+    "lng": "-8.551195",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CORTIÑAS FARIÑA OLEGARIO",
+    "direccion": "San Pedro de Mezonzo 34 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.87163",
+    "lng": "-8.547406",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "CUTRÍN PRIETO FERNANDO CUTRÍN GÓMEZ ELENA CUTRÍN GÓMEZ BEATRIZ",
+    "direccion": "Frei Rosendo Salvado 18 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.873126",
+    "lng": "-8.550825",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "DEL RÍO CAMBESES MANUEL TELMO",
+    "direccion": "Galiano 71 y Rubalcaba 22 - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.484548",
+    "lng": "-8.232275",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "DURÁN LOSADA PABLO",
+    "direccion": "Porto de Santa Cruz - Viñas de Babilonia 10 - Oleiros - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.349032",
+    "lng": "-8.344893",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "FERRADÁNS VALDÉS JORGE",
+    "direccion": "Cantón do Toural 1 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.877414",
+    "lng": "-8.544178",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "FUENTES BARREIRO AMALIA J. Y GARCÍA FUENTES SUSANA",
+    "direccion": "Villa de Negreira 42 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.363973",
+    "lng": "-8.421084",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GARCÍA GÓMEZ MARÍA JOSÉ",
+    "direccion": "Castiñeiriño 12 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.860601",
+    "lng": "-8.540861",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GÓMEZ-ULLA ASTRAY ALEJANDRO J.",
+    "direccion": "Porta Faxeira1 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.87728",
+    "lng": "-8.545791",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GONZÁLEZ PÉREZ JESÚS MARÍA",
+    "direccion": "Santa Catalina  21 - Fisterra - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.908516",
+    "lng": "-9.262749",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GUERREIRO GONZÁLEZ FERNANDO",
+    "direccion": "Galiano 1 A - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.485947",
+    "lng": "-8.229331",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "GUTIÉRREZ DEL OLMO MIGUEL RAMÓN A.",
+    "direccion": "Restollal 47 - Santiago de Compostela - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.863028",
+    "lng": "-8.541931",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "HEREDEROS DE ROSA MARÍA LORENZO CAINZOS (ANDREA VÍA LORENZO)",
+    "direccion": "Os Ánxeles - Alqueidón - Av. de Noia 12 - Brión - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.853553",
+    "lng": "-8.670701",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MARTÍNEZ PÉREZ MARTA",
+    "direccion": "Ronda de Outeiro 261 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.362432",
+    "lng": "-8.422566",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MARTÍNEZ VILLAR MARÍA DEL CARMEN",
+    "direccion": "Real 165 - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.48281",
+    "lng": "-8.235684",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MOSTEIRO NOAIN MIGUEL",
+    "direccion": "Av. Labañou 5 - Grupo María Pita - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.374385",
+    "lng": "-8.423745",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "MOURE PRADO SARA",
+    "direccion": "Queiruga - Tarrío 144 - Porto do Son - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "42.668155",
+    "lng": "-9.032117",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "NOVO PIÑÓN Mª DE LOS REYES",
+    "direccion": "Real 94 - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.4836",
+    "lng": "-8.234046",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PASTOR FONTAO MARÍA TERESA",
+    "direccion": "Paseo de los Puentes 10 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.363801",
+    "lng": "-8.413681",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "PEDREIRA PÉREZ MARÍA E. Y PEDREIRA PÉREZ BEATRIZ",
+    "direccion": "Gramela 28 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.361814",
+    "lng": "-8.418357",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "RASCÓN ECHAVE MIGUEL",
+    "direccion": "Juan Flórez 79-81 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.362057",
+    "lng": "-8.407883",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "RIVERA PÉREZ-SALVATIERRA PATRICIA VICTORIA",
+    "direccion": "Real 92 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.369018",
+    "lng": "-8.401949",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "SANJURJO SOMOZA LIDIA",
+    "direccion": "Barallobre - Rúa Santiago 43 A - Fene - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.459639",
+    "lng": "-8.187862",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "VARELA SÁNCHEZ-CABALLERO CARLOS Y VARELA SÁNCHEZ-CABALLERO LUIS MARIANO",
+    "direccion": "Av. de Arteixo 109 - A Coruña - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.354923",
+    "lng": "-8.413857",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "DURÁN MORAIS LAURA MARÍA",
+    "direccion": "Carretera de Catabois 279-281 - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.497699",
+    "lng": "-8.228149",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "SÁNCHEZ FERREIRO MANUEL Y  SANDE FERNÁNDEZ  ANTONIO",
+    "direccion": "Real 164 - Ferrol - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.481782",
+    "lng": "-8.238542",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "VIGUERA MOSQUERA MARTA",
+    "direccion": "Serantes - Mera - Oleiros - A CORUÑA",
+    "provincia": "A Coruña",
+    "lat": "43.379181",
+    "lng": "-8.33735",
+    "fuente": "COFC Oficial JSON"
+  },
+  {
+    "nombre": "Satélite",
+    "direccion": "Datos del mapa ©2026 Google, Inst. Geogr. Nacional",
+    "map_url": "https://maps.google.com/maps?ll=42.854342,-2.65221&z=10&t=m&hl=es&gl=US&mapclient=apiv3",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "Combinaciones de teclas",
+    "direccion": "Datos del mapa ©2026 Google, Inst. Geogr. Nacional",
+    "map_url": "https://www.google.com/maps/@42.8543418,-2.6522101,10z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "FERNANDEZ DE TROCONIZ FERNANDEZ, PABLO",
+    "direccion": "C/ PORTAL DE LEGUTIANO 47 Cómo ir (945260036)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8572106,-2.6637117",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "ARNAIZ GARCIA, BELEN",
+    "direccion": "C/ DIPUTACION 18 Cómo ir (945258173)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.2616354,-2.9328839",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "JIMENEZ & REMENTERIA, YARA & LEIRE",
+    "direccion": "C/ DONOSTIA-SAN SEBASTIAN 29 Cómo ir (945177421)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8531869,-2.6732421",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "ACHAERANDIO DIAZ DE GUEREÑU, BEATRIZ",
+    "direccion": "C/ PINTOR ADRIAN ALDECOA 7 Cómo ir (945135317)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8437804,-2.6851637",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "PELETEIRO RODRIGUEZ, AARON",
+    "direccion": "C/ MONSEÑOR ESTENAGA 2 Cómo ir (945288797)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8514221,-2.6689815",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "LOPEZ DE HEREDIA ELOSEGUI, ISABEL",
+    "direccion": "C/ ORTIZ DE ZARATE 22 Cómo ir (945258002)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8434551,-2.6689304",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "RIVERA EGUIGUREN, IGNACIO",
+    "direccion": "C/ IBAIZABAL 1 Cómo ir (946720329)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.1408958,-2.9635935",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "PULIDO ALVAREZ, JOSE MANUEL",
+    "direccion": "AVDA. GERNIKA 4 Cómo ir (945601184 - 607507140)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.5048909,-2.4329042",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "RUIZ DE EGUINO CAMPO, LEIRE",
+    "direccion": "C/ URIA 22 Cómo ir (945317412 - 681399703)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8897047,-2.4695471",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "MOSTEIRO BALOIRA, MARGARITA",
+    "direccion": "C/ ALFONSO VI 24 Cómo ir (945355140 - 656716884)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.7129197,-2.9168543",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "URBIETA LAVIADA, ANA MARIA",
+    "direccion": "URBIETA LAVIADA, ANA MARIA (PLAZA MAINERROTA, 5 Cómo ir)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.0410155,-2.6554378",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "TENDERO BAIMA, MARTA",
+    "direccion": "C/ HOSPITAL 4 Cómo ir (945378150 - 628088384)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.6275603,-2.4991327",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "IBARROLA GANZABAL, GORETTI",
+    "direccion": "PLAZA FUEROS, 12 Cómo ir (945383007)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.9938493,-3.0101005",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "PEREDA GARCIA, JOSE LUIS",
+    "direccion": "C/ LANDAKO 28 Cómo ir (945393768)",
+    "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.0480466,-2.998216",
+    "provincia": "Álava",
+    "fuente": "COF Álava DOM"
+  },
+  {
+    "nombre": "ALBARRACIN SANCHEZ LUISA MARIA",
+    "direccion": "C/ NATALIO RIVAS, 29 - ADRA - 04770 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "BERGILLOS MECA ROCIO",
+    "direccion": "CTRA. NACIONAL 340, 86 LOCAL 2 - HUERCAL-OVERA - 04600 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "BERMUDEZ JIMENEZ ELOISA",
+    "direccion": "C/ REAL, 115 - SERON - 04890 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "EGEA GARCIA MARIA LUZ",
+    "direccion": "AV. DE ROQUETAS, 94 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "EISMAN MORENO MARIA DEL MAR",
+    "direccion": "CTRA. DEL IRYDA, 12 - NIJAR - 04110 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "EISMAN MORENO MARIA DEL MAR",
+    "direccion": "CTRA. DEL IRYDA, 12 - NIJAR - 04110 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "ESTEBAN VILLEGAS Mª SOLEDAD",
+    "direccion": "BULEVAR DE LA UNION EUROPEA, 141 - BARRIO DE ARCHILLA - 04738 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FARMACIA DAZA EL PARADOR C.B.",
+    "direccion": "C/ MARMOLES, 2 - ROQUETAS DE MAR - 04720 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FARMACIA FUENTES CARNICERO C.B.",
+    "direccion": "AV. ANDALUCIA, 78 - PULPI - 04640 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FARMACIA VIVAS-PEREZ ZORRILLA C.B.",
+    "direccion": "C/ MURCIA, 41 - ALMERÍA - 04004 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FERNANDEZ FRIAS JOSE ALBERTO",
+    "direccion": "A. BULEVAR, 195 - EL EJIDO  - 04700 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FERNANDEZ GONZALEZ FRANCISCO",
+    "direccion": "PLAZA CONSTITUCION, 18 - BERJA - 04760 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "FUENTES MUNUERA Mª DEL PILAR",
+    "direccion": "C/CASTILLA 14 (ESQ.PLAZA ESPAÑA) - ALMERÍA - 04007 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GARCIA PEREZ MARCO ANTONIO",
+    "direccion": "CTRA. NIJAR KM. 9 - FARMACIA AEROPUERTO - EL ALQUIAN  - 04130 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GARCIA RECHE FRANCISCO",
+    "direccion": "C/ TERCIA, 3 - COBDAR - 04858 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GARCIA RUZAFA CELIA",
+    "direccion": "C/ SAN LAZARO, 7 - VELEZ-BLANCO - 04830 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GAZQUEZ AROSTEGUI JOSE MIGUEL",
+    "direccion": "PLAZA CASTILLO, 15 - CARBONERAS - 04140 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GODOY MORENO VANESA",
+    "direccion": "C/ REAL, 11 - HUERCAL DE ALMERIA - 04230 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "GRANERO NAVARRETE MARIA",
+    "direccion": "C/ SAN FRANCISCO, 24 - ALBOX - 04800 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "HERNANDEZ GARCIA ROSA Mª",
+    "direccion": "C/ RUIZ OCAÑA, 20 - PADULES - 04458 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "JORGE BELMONTE MIGUEL ANGEL",
+    "direccion": "C/ MAYOR, 69 - VERA - 04620 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "LAHRECH BELHASSAN MYRIAM",
+    "direccion": "AV. BULEVAR, 412 ESQ. GLORIETA MENDIZÁBAL - EL EJIDO  - 04700 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "LOPEZ IGLESIAS ANA TRINIDAD",
+    "direccion": "C/ SAN SEBASTIAN, 11 - FIÑANA - 04500 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "LOPEZ OLMO ELENA ISABEL",
+    "direccion": "C/ IGLESIA, 2 - ALBOLODUY - 04531 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "LUQUE ALONSO EVA MARIA",
+    "direccion": "C/ POETA MARTIN DEL REY, 2 - FONDON - 04460 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MALDONADO SALMERON Mª TERESA",
+    "direccion": "C/ PABLO PICASSO, 139 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MARTIN GOMEZ MARCOS",
+    "direccion": "AV. BULEVAR, 119 - EL EJIDO  - 04700 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MARTINEZ ALVAREZ FRANCISCO JAVIER",
+    "direccion": "PLAZA CONSTITUCION, 3 - VIATOR - 04240 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MARTINEZ ALVAREZ PABLO",
+    "direccion": "AV. CARLOS III, 565 - AGUADULCE - 04720 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MARTINEZ SANCHEZ MARIA",
+    "direccion": "PASEO DE ALMERIA, 58 - ALMERÍA - 04001 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MENA NAVARRO OTILIA",
+    "direccion": "AV. CARLOS III, 2 (FARMACIA) - VICAR - 04721 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MOYA GARNICA RAMON",
+    "direccion": "C/ ISABEL LA CATOLICA, 16 - CAMPOHERMOSO - 04110 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "MUÑOZ DEL POZO USERO CARMEN",
+    "direccion": "C/ FRONTON, 2 - ULEILA DEL CAMPO - 04279 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "PADUA ARCOS DANIEL",
+    "direccion": "AV. BARCELONA, 109 - CUEVAS DEL ALMANZORA - 04610 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "PEREZ RODRIGUEZ Mª CARMEN",
+    "direccion": "C/ GRANADA, 7 - OLULA DEL RIO - 04860 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "PEREZ RUIZ MARIA DE LA PAZ",
+    "direccion": "PLAZA JUAN MIGUEL DEL ARENAL, 1 - VELEZ-RUBIO - 04820 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "PUERTO CUENCA EUGENIO",
+    "direccion": "AV. JUAN CARLOS I, 70 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "RIPOLLÉS FUSTER Mª DEL PILAR",
+    "direccion": "AV. CARLOS III, 312 - AGUADULCE - 04720 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "SANIGER BERNAL Mª LUISA",
+    "direccion": "AV. OASIS, 37 BIS - EL EJIDO  - 04700 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "SIERRA POSSO YOLANDA",
+    "direccion": "AV. DEL MEDITERRANEO, 414 (ESQ.C/ALBANIA) - ALMERÍA - 04009 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "SOLER SORIA SILVIA",
+    "direccion": "C/ DEL AGUA, 15 - PUEBLA DE VICAR - 04738 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "SOLSONA PUERTA PABLO JULIO",
+    "direccion": "CTRA. DE RONDA, 325 - ALMERÍA - 04009 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "VALERO GONZALEZ EDUARDO LUIS",
+    "direccion": "AV. DEL MEDITERRANEO, 411 LOCAL 12 - MOJACAR - 04638 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "VERDU DE LA VEGA JOSE ANTONIO",
+    "direccion": "AV. SABINAL, 1 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "WAISEN RESTOY JOSE",
+    "direccion": "AV. REINO DE ESPAÑA, 204 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "WAISEN RESTOY JOSE",
+    "direccion": "AV. REINO DE ESPAÑA, 204 - ROQUETAS DE MAR - 04740 - ALMERIA - ESPAÑA",
+    "provincia": "Almería",
+    "fuente": "COF Almería Oficial P1"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle MOLINO NUEVO, Nº 1",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza AUSIAS MARCH, Nº 4",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle TRINIDAD, Nº 40",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle REPUBLICA ARGENTINA, Nº 47",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza ESPAÑA, Nº 13",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle DE LOS MARTIRES, Nº 25",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle SAN FELIPE DE NERI, Nº 2",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Carretera VALENCIA, Nº 7",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA DIAGONAL, Nº 4",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA SIERRA ESPADAN, Nº 42",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA EL FARO, Nº 49",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle SAN FRANCISCO, Nº 6",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle AULAS, Nº 1",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle HERNAN CORTES, Nº 45",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle SANTO TOMAS, Nº 94",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle MAESTRAT, Nº 28 BAJO",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza DONOSO CORTES, Nº 5",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Alameda, aldea DE LOS MARTIRES, Nº 29",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza MAYOR, Nº 10",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle CALVARIO, Nº 18",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle MAESTRO RODRIGO, Nº 12",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA AV.  JOSE ORTIZ, Nº 7",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza MAYOR, Nº 22",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle PONCIO TORRELLAS, Nº 6",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle HEROINA, Nº 2",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Camino SAN JOSE, Nº 2",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle IGLESIA, Nº 24",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA MONTAN, Nº 14",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA RAVAL DE VALENCIA, Nº 127",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Plaza ESPAÑA, Nº 6",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "AVENIDA DE LA MAR, Nº 26",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle COLON, Nº 44",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Paseo BUENAVISTA, Nº 4",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia",
+    "direccion": "Calle CALVARIO, Nº 171",
+    "municipio": "",
+    "provincia": "Castellón",
+    "lat": "",
+    "lng": "",
+    "fuente": "DipCas API"
+  },
+  {
+    "nombre": "Farmacia 1198",
+    "direccion": "AV VALDEMARIN, 165 LC 4-2",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1295",
+    "direccion": "CL BLANCA DE CASTILLA,  11",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 677",
+    "direccion": "CL AUTOGIRO,   2 ESQ. CL ALAR DEL REY",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 19",
+    "direccion": "AV GENERAL,   1 (BARAJAS)",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 657",
+    "direccion": "T4 AER BARAJAS PTA 2 SAL ZONA SUR LOC T402PD21A",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (07:00-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2514",
+    "direccion": "AEROPUERTO BARAJAS TERMINAL 1 LLEGADAS SALA 2",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (07:00-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1309",
+    "direccion": "CL. ANTONIO LEYVA, 73",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1358",
+    "direccion": "AV PADRE PIQUER,   8",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1248",
+    "direccion": "CL OCA,  17",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1432",
+    "direccion": "CL CEBREROS,  30",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 367",
+    "direccion": "PS EXTREMADURA, 124",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2274",
+    "direccion": "AV LOS POBLADOS,  58 C.C.PLAZA ALUCHE LC B1-B2",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 968",
+    "direccion": "CL RIBERA DE CURTIDORES,  37",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 430",
+    "direccion": "CL GRAN VIA, 51",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 180",
+    "direccion": "CL ARENAL,  15",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 46",
+    "direccion": "PZ DEL ANGEL,  14",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 331",
+    "direccion": "CL MAYOR,  13",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1915",
+    "direccion": "AV PIO XII,   2 LC 21-29 CC ALCAMPO",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1102",
+    "direccion": "PS HABANA,   7",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 792",
+    "direccion": "CL MOSCATELAR, 1-Q C/V CL PUERTO DE SANTA MARIA",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 412",
+    "direccion": "CL VALDETORRES DEL JARAMA,  31",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1320",
+    "direccion": "AV SAN LUIS,  52",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1451",
+    "direccion": "CL LUIS MOYA BLANCO,  19-21 ESQ CL SEGUNDINO ZUAZO",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 624",
+    "direccion": "PZ SAGRADOS CORAZONES,   4",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 95",
+    "direccion": "AV MACHUPICHU,  37 LC 2 Y 3",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 328",
+    "direccion": "CL JOSE ANTONIO FERNANDEZ ORDOÑEZ, 45 LC-3",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1874",
+    "direccion": "AV FILIPINAS, 22",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1268",
+    "direccion": "CL ISAAC PERAL,  56",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 509",
+    "direccion": "CL BLASCO DE GARAY,   5",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 55",
+    "direccion": "CL FERRAZ,  13",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 287",
+    "direccion": "CL PRINCESA,  72",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 212",
+    "direccion": "CL GUZMAN EL BUENO, 34",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 535",
+    "direccion": "CL ELOY GONZALO,  31",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 136",
+    "direccion": "CL CEA BERMUDEZ,  15",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 967",
+    "direccion": "CL ARTURO SORIA, 142",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 743",
+    "direccion": "CL SAN TELESFORO,  45-47",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1077",
+    "direccion": "AV DONOSTIARRA,  22",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 286",
+    "direccion": "CL SAN ROMUALDO,  51",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 589",
+    "direccion": "CL ALCALA, 321",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 886",
+    "direccion": "AV INSTITUCION LIBRE DE ENSEÑANZA,  21",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2896",
+    "direccion": "CL MARIA SEVILLA DIAGO,  24 ESQ. CL NIZA",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2314",
+    "direccion": "CL MONASTERIO MONTESCLAROS, 7-B C/V A MO. ESCORIAL",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1289",
+    "direccion": "CL MARIA MAEZTU,146 C/A C/LEONOR LOPEZ CORDOBA,S/N",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1408",
+    "direccion": "CL MELCHOR FERNANDEZ ALMAGRO,  84",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1870",
+    "direccion": "AV BETANZOS,  61 LC 416 TDA 3",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1088",
+    "direccion": "CL EL PAULAR, 14 C/A POR CL FUENTE CARRANTONA",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 641",
+    "direccion": "CL FUENTE CARRANTONA,  29",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 641",
+    "direccion": "CL FUENTE CARRANTONA,  29",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1764",
+    "direccion": "AV PABLO NERUDA,  91-97 CEN COM MADRID SUR",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 515",
+    "direccion": "AV MONTE IGUELDO,  14",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1454",
+    "direccion": "AV MEDITERRANEO,  22",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2128",
+    "direccion": "CL BRONCE,   4C LC9",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2360",
+    "direccion": "PS DELICIAS,   5",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 619",
+    "direccion": "CL DOCTOR ESQUERDO,  75",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 333",
+    "direccion": "CL ALCALA, 173",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 892",
+    "direccion": "CL FRANCISCO SILVELA,  36",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 706",
+    "direccion": "CL EMILIA,  27 C/A CL VIZCAINOS",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 2612",
+    "direccion": "AV PABLO IGLESIAS,  93",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1346",
+    "direccion": "PS CASTELLANA, 181",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 493",
+    "direccion": "CL MARCELO USERA, 114",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1455",
+    "direccion": "CL MERCURIO,  10",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1533",
+    "direccion": "AV GRAN VIA DEL ESTE,  16 Y 18",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-21:30 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1473",
+    "direccion": "CL SAN CIPRIANO,  39 (VICALVARO)",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-21:30 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1566",
+    "direccion": "CL CAMPO DE LA TORRE,   1",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-21:30 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 931",
+    "direccion": "CL BULEVAR JOSE PRAT,  35 LC.B-26",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-21:30 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 1890",
+    "direccion": "CL REAL DE ARGANDA,  40",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO DIURNO (09:30-23:00 H)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 139",
+    "direccion": "PS FEDERICO GARCIA LORCA,  19",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Farmacia 224",
+    "direccion": "AV LAS SUERTES,  13 ESQ CL PUEBLA NUEVA",
+    "municipio": "MADRID",
+    "provincia": "Madrid",
+    "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
+    "lat": "",
+    "lng": "",
+    "fuente": "Madrid RealTime"
+  },
+  {
+    "nombre": "Jimeno Garcia, Maria",
+    "direccion": "C/ La Cruz, 24",
+    "municipio": "Artajona",
+    "provincia": "Navarra",
+    "telefono": "948 364080",
+    "horario": "9:00 - 22:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Borras Trias, Guillem",
+    "direccion": "C/ Madres de la Plaza de Mayo, 32 . Nuevo Artica",
+    "municipio": "Artica / Artika",
+    "provincia": "Navarra",
+    "telefono": "948 307609",
+    "horario": "10:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Capilla Frias, Inmaculada",
+    "direccion": "Pl Hermilio de Oloriz, 3",
+    "municipio": "Auritz / Burguete",
+    "provincia": "Navarra",
+    "telefono": "948 760039",
+    "horario": "9:00 - 20:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Goyache Sainz de Vicuña, Maria del Mar",
+    "direccion": "C/ Baja Navarra, 7",
+    "municipio": "Estella-Lizarra",
+    "provincia": "Navarra",
+    "telefono": "948 550231",
+    "horario": "9:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Vicente Collado, Maria Jose",
+    "direccion": "C/ Rochapea, 2",
+    "municipio": "Ezcároz / Ezkaroze",
+    "provincia": "Navarra",
+    "telefono": "948 890395",
+    "horario": "9:00 - 20:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Martinez de Luco Cortecero, Gemma",
+    "direccion": "Pl San Andres, 1",
+    "municipio": "Igúzquiza",
+    "provincia": "Navarra",
+    "telefono": "948537237",
+    "horario": "9:00 - 22:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Marfil Garcia, Alberto",
+    "direccion": "C/ Yanguas y Miranda, 17",
+    "municipio": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948 245030",
+    "horario": "10:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Menendez Garcia, Graciela",
+    "direccion": "C/ Irunlarrea, 19 . Próx. Virgen del Camino. Mendebaldea",
+    "municipio": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948 198191",
+    "horario": "10:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Huarte Ros, Izaskun",
+    "direccion": "C/ Cerco Nuevo, 38 . Porches de la Plaza",
+    "municipio": "Puente la Reina / Gares",
+    "provincia": "Navarra",
+    "telefono": "948 340941",
+    "horario": "9:00 - 22:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Marfil Tapia, Laura",
+    "direccion": "Avda Erripagaña, 24 . Ripagaina. Rotonda LIDL y ALDI",
+    "municipio": "Sarriguren",
+    "provincia": "Navarra",
+    "telefono": "948787058",
+    "horario": "10:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Morte Casado, Leticia Alba",
+    "direccion": "Pº Capuchinas, 33 (Mercadona) . Frente a Mercadona.",
+    "municipio": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948415298",
+    "horario": "9:00 - 21:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Borras Trias, Guillem",
+    "direccion": "C/ Madres de la Plaza de Mayo, 32 . Nuevo Artica",
+    "municipio": "Artica / Artika",
+    "provincia": "Navarra",
+    "telefono": "948 307609",
+    "horario": "21:00 - 10:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Goyache Sainz de Vicuña, Maria del Mar",
+    "direccion": "C/ Baja Navarra, 7",
+    "municipio": "Estella-Lizarra",
+    "provincia": "Navarra",
+    "telefono": "948 550231",
+    "horario": "21:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Lozano Bernal, Javier Jose",
+    "direccion": "Pl Valle de Aranguren, 15 bajo C",
+    "municipio": "Mutilva / Mutiloa",
+    "provincia": "Navarra",
+    "telefono": "644798814",
+    "horario": "21:00 - 10:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Marfil Garcia, Alberto",
+    "direccion": "C/ Yanguas y Miranda, 17",
+    "municipio": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948 245030",
+    "horario": "21:00 - 10:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Menendez Garcia, Graciela",
+    "direccion": "C/ Irunlarrea, 19 . Próx. Virgen del Camino. Mendebaldea",
+    "municipio": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948 198191",
+    "horario": "21:00 - 10:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Marfil Tapia, Laura",
+    "direccion": "Avda Erripagaña, 24 . Ripagaina. Rotonda LIDL y ALDI",
+    "municipio": "Sarriguren",
+    "provincia": "Navarra",
+    "telefono": "948787058",
+    "horario": "21:00 - 10:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Morte Casado, Leticia Alba",
+    "direccion": "Pº Capuchinas, 33 (Mercadona) . Frente a Mercadona.",
+    "municipio": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948415298",
+    "horario": "21:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Perea/Uriarte Garcia/Totoricagüena, Juan A./Eva",
+    "direccion": "C/ La Paz, 47",
+    "municipio": "Altsasu / Alsasua",
+    "provincia": "Navarra",
+    "telefono": "948 564210",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Moreno Martinez, Luisa Mª",
+    "direccion": "C/ Hilarión Eslava, 10",
+    "municipio": "Andosilla",
+    "provincia": "Navarra",
+    "telefono": "948690298",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Sanz Goya, Maria Jose",
+    "direccion": "C/ Bidasoa, 14",
+    "municipio": "Bera",
+    "provincia": "Navarra",
+    "telefono": "948 040118",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Mediavilla Fernandez, Monica Asuncion",
+    "direccion": "Avda de la Estación, 11",
+    "municipio": "Cintruénigo",
+    "provincia": "Navarra",
+    "telefono": "948 837020",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Gonzalez Maria, Raul",
+    "direccion": "C/ Lavadero, 22",
+    "municipio": "Cortes",
+    "provincia": "Navarra",
+    "telefono": "948 800000",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Echarte Subizar, Maider",
+    "direccion": "C/ Mayor, 6",
+    "municipio": "Doneztebe / Santesteban",
+    "provincia": "Navarra",
+    "telefono": "948 456169",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Gonzalez Mendizabal, Domingo",
+    "direccion": "C/ Picota, 2",
+    "municipio": "Espronceda",
+    "provincia": "Navarra",
+    "telefono": "948 657197",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Mutiloa Martirena, Ana Mª",
+    "direccion": "C/ San Martín, 5",
+    "municipio": "Irurtzun",
+    "provincia": "Navarra",
+    "telefono": "948 500105",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Obispo Rebole, Alfonso",
+    "direccion": "C/ Cantón del Boticario, 6",
+    "municipio": "Lumbier",
+    "provincia": "Navarra",
+    "telefono": "948 880085",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Irisarri Moreno, Cristina",
+    "direccion": "C/ Irurzun, 10",
+    "municipio": "Peralta / Azkoien",
+    "provincia": "Navarra",
+    "telefono": "948 753192",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Ayala Gutierrez, Ana",
+    "direccion": "Avda de Navarra, 20",
+    "municipio": "Rada",
+    "provincia": "Navarra",
+    "telefono": "948 731042",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Laparra Lavega, Diana",
+    "direccion": "C/ Carretera de Lodosa, 17",
+    "municipio": "Sartaguda",
+    "provincia": "Navarra",
+    "telefono": "948 667258",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Villar Zabaleta, Maria Teresa",
+    "direccion": "C/ República Argentina, 3",
+    "municipio": "Tafalla",
+    "provincia": "Navarra",
+    "telefono": "948704122",
+    "horario": "9:00 - 9:00",
+    "lat": "",
+    "lng": "",
+    "fuente": "Navarra Open Data"
+  },
+  {
+    "nombre": "Buscador de Farmacias Seleccione el Municipio Seleccionar municipio ABADIA ABERTURA ACEBO ACEHUCHE ACEITUNA AHIGAL ALAGON ALBALA ALCANTARA ALCUESCAR ALDEA DEL CANO ALDEA DEL OBISPO ALDEACENTENERA ALDEANUEVA DE LA VERA ALDEANUEVA DEL CAMINO ALIA ALISEDA ALMARAZ ALMOHARIN ALONSO DE OJEDA ARROYO DE LA LUZ ARROYOMOLINOS DE LA VERA ARROYOMOLINOS DE MONTANCHEZ Barco de Avila BARRADO BEJAR BELVIS DE MONROY BERZOCANA BOHONAL DE IBOR BROZAS CABAÑAS DEL CASTILLO CABEZABELLOSA CABEZUELA DEL VALLE CABRERO CACERES CALZADILLA CAMINOMORISCO CAMPO LUGAR CAÑAMERO CAÑAVERAL CARBAJO CARCABOSO CARRASCALEJO CASAR DE CACERES CASAR DE PALOMERO CASARES DE HURDES CASAS DE DON ANTONIO CASAS DE DON GOMEZ CASAS DE MILLAN CASAS DE MIRAVETE CASAS DEL CASTA?AR CASAS DEL MONTE CASATEJADA CASILLAS DE CORIA CASTAÑAR DE IBOR CECLAVIN CEDILLO CILLEROS CONQUISTA DE LA SIERRA CORIA CUACOS DE YUSTE DELEITOSA DESCARGAMARIA EL BATAN ELJAS ESCURIAL GALISTEO GARCIAZ GARGANTA LA OLLA GARGANTILLA GARROVILLAS GATA GORDO, EL GRANJA, LA GUADALUPE GUIJO DE CORIA GUIJO DE GRANADILLA GUIJO DE SANTA BARBARA HERGUIJUELA HERNAN PEREZ HERRERA DE ALCANTARA HERRERUELA HERVAS HINOJAL HOLGUERA HOYOS IBAHERNANDO JARAICEJO JARAIZ DE LA VERA JARANDILLA JERTE LA CUMBRE LA GARGANTA LA MOHEDA DE GATA LA PESGA LOGROSAN LOSAR DE LA VERA MADRIGAL DE LA VERA MADRIGALEJO MADROÑERA MAJADAS DE TIETAR MALPARTIDA DE CACERES MALPARTIDA DE PLASENCIA MARCHAGAZ MATA DE ALCANTARA MEMBRIO MIAJADAS MILLANES DE LA MATA MIRABEL MOHEDAS DE GRANADILLA MONROY MONTANCHEZ MONTEHERMOSO MORALEJA MORCILLO NAVACONCEJO NAVALMORAL DE LA MATA NAVALVILLAR DE IBOR NAVAS DEL MADROÑO NAVEZUELAS NUÑOMORAL OLIVA DE PLASENCIA Oropesa PALOMERO PASARON DE LA VERA PERALEDA DE LA MATA PERALEDA DE SAN ROMAN PERALES DEL PUERTO PINOFRANQUEADO PIORNAL PLASENCIA PLASENZUELA POBLACIONPRUEBA PORTAJE POZUELO DE ZARZON PUEBLA DE ARGEME PUEBLONUEVO DE MIRAMONTES PUERTO DE SANTA CRUZ RIOLOBOS ROBLEDILLO DE LA VERA ROBLEDILLO DE TRUJILLO ROBLEDOLLANO ROSALEJO ROTURAS (CABAÑAS DEL CASTILLO) SALORINO SALVATIERRA DE SANTIAGO SAN MARTIN DE TREVEJO SANTA  ANA SANTA CRUZ DE LA SIERRA SANTA CRUZ DE PANIAGUA SANTIAGO DE ALCANTARA SANTIAGO DEL CAMPO SANTIBAÑEZ EL ALTO SANTIBAÑEZ EL BAJO SAUCEDILLA SEGURA DE TORO SERRADILLA SIERRA DE FUENTES TALAVAN TALAVERUELA DE LA VERA TALAYUELA TEJEDA DE TIETAR TIETAR TORNAVACAS TORNO, EL TORRE DE D. MIGUEL TORRE DE SANTA MARIA TORRECILLA DE LA TIESA TORRECILLA DE LOS ANGELES TORREJON EL RUBIO TORREJONCILLO TORREMENGA TORREMOCHA TORREORGAZ TORREQUEMADA TRUJILLO VALDASTILLAS VALDEFUENTES VALDELACASA DE TAJO VALDEMORALES VALDEOBISPO VALENCIA DE ALCANTARA VALVERDE DE LA VERA VALVERDE DEL FRESNO VEGAVIANA VIANDAR DE LA VERA VILLA DEL CAMPO VILLAMESIAS VILLAMIEL VILLANUEVA DE LA SIERRA VILLANUEVA DE LA VERA VILLAR DEL PEDROSO VILLASBUENAS DE GATA ZARZA DE GRANADILLA ZARZA DE MONTANCHEZ ZARZA LA MAYOR ZORITA Solo abiertas Buscar Farmacias cerca de Mi Solo abiertas Buscar Listado de farmacias ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar ‹ 1 2 3 4 5 6 7 8 9 10 ... 14 15 ›",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927530278",
+    "horario": ""
+  },
+  {
+    "nombre": "Buscador de Farmacias Seleccione el Municipio Seleccionar municipio ABADIA ABERTURA ACEBO ACEHUCHE ACEITUNA AHIGAL ALAGON ALBALA ALCANTARA ALCUESCAR ALDEA DEL CANO ALDEA DEL OBISPO ALDEACENTENERA ALDEANUEVA DE LA VERA ALDEANUEVA DEL CAMINO ALIA ALISEDA ALMARAZ ALMOHARIN ALONSO DE OJEDA ARROYO DE LA LUZ ARROYOMOLINOS DE LA VERA ARROYOMOLINOS DE MONTANCHEZ Barco de Avila BARRADO BEJAR BELVIS DE MONROY BERZOCANA BOHONAL DE IBOR BROZAS CABAÑAS DEL CASTILLO CABEZABELLOSA CABEZUELA DEL VALLE CABRERO CACERES CALZADILLA CAMINOMORISCO CAMPO LUGAR CAÑAMERO CAÑAVERAL CARBAJO CARCABOSO CARRASCALEJO CASAR DE CACERES CASAR DE PALOMERO CASARES DE HURDES CASAS DE DON ANTONIO CASAS DE DON GOMEZ CASAS DE MILLAN CASAS DE MIRAVETE CASAS DEL CASTA?AR CASAS DEL MONTE CASATEJADA CASILLAS DE CORIA CASTAÑAR DE IBOR CECLAVIN CEDILLO CILLEROS CONQUISTA DE LA SIERRA CORIA CUACOS DE YUSTE DELEITOSA DESCARGAMARIA EL BATAN ELJAS ESCURIAL GALISTEO GARCIAZ GARGANTA LA OLLA GARGANTILLA GARROVILLAS GATA GORDO, EL GRANJA, LA GUADALUPE GUIJO DE CORIA GUIJO DE GRANADILLA GUIJO DE SANTA BARBARA HERGUIJUELA HERNAN PEREZ HERRERA DE ALCANTARA HERRERUELA HERVAS HINOJAL HOLGUERA HOYOS IBAHERNANDO JARAICEJO JARAIZ DE LA VERA JARANDILLA JERTE LA CUMBRE LA GARGANTA LA MOHEDA DE GATA LA PESGA LOGROSAN LOSAR DE LA VERA MADRIGAL DE LA VERA MADRIGALEJO MADROÑERA MAJADAS DE TIETAR MALPARTIDA DE CACERES MALPARTIDA DE PLASENCIA MARCHAGAZ MATA DE ALCANTARA MEMBRIO MIAJADAS MILLANES DE LA MATA MIRABEL MOHEDAS DE GRANADILLA MONROY MONTANCHEZ MONTEHERMOSO MORALEJA MORCILLO NAVACONCEJO NAVALMORAL DE LA MATA NAVALVILLAR DE IBOR NAVAS DEL MADROÑO NAVEZUELAS NUÑOMORAL OLIVA DE PLASENCIA Oropesa PALOMERO PASARON DE LA VERA PERALEDA DE LA MATA PERALEDA DE SAN ROMAN PERALES DEL PUERTO PINOFRANQUEADO PIORNAL PLASENCIA PLASENZUELA POBLACIONPRUEBA PORTAJE POZUELO DE ZARZON PUEBLA DE ARGEME PUEBLONUEVO DE MIRAMONTES PUERTO DE SANTA CRUZ RIOLOBOS ROBLEDILLO DE LA VERA ROBLEDILLO DE TRUJILLO ROBLEDOLLANO ROSALEJO ROTURAS (CABAÑAS DEL CASTILLO) SALORINO SALVATIERRA DE SANTIAGO SAN MARTIN DE TREVEJO SANTA  ANA SANTA CRUZ DE LA SIERRA SANTA CRUZ DE PANIAGUA SANTIAGO DE ALCANTARA SANTIAGO DEL CAMPO SANTIBAÑEZ EL ALTO SANTIBAÑEZ EL BAJO SAUCEDILLA SEGURA DE TORO SERRADILLA SIERRA DE FUENTES TALAVAN TALAVERUELA DE LA VERA TALAYUELA TEJEDA DE TIETAR TIETAR TORNAVACAS TORNO, EL TORRE DE D. MIGUEL TORRE DE SANTA MARIA TORRECILLA DE LA TIESA TORRECILLA DE LOS ANGELES TORREJON EL RUBIO TORREJONCILLO TORREMENGA TORREMOCHA TORREORGAZ TORREQUEMADA TRUJILLO VALDASTILLAS VALDEFUENTES VALDELACASA DE TAJO VALDEMORALES VALDEOBISPO VALENCIA DE ALCANTARA VALVERDE DE LA VERA VALVERDE DEL FRESNO VEGAVIANA VIANDAR DE LA VERA VILLA DEL CAMPO VILLAMESIAS VILLAMIEL VILLANUEVA DE LA SIERRA VILLANUEVA DE LA VERA VILLAR DEL PEDROSO VILLASBUENAS DE GATA ZARZA DE GRANADILLA ZARZA DE MONTANCHEZ ZARZA LA MAYOR ZORITA Solo abiertas Buscar Farmacias cerca de Mi Solo abiertas Buscar Listado de farmacias ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar ‹ 1 2 3 4 5 6 7 8 9 10 ... 14 15 ›",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927530278",
+    "horario": ""
+  },
+  {
+    "nombre": "ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927530278",
+    "horario": ""
+  },
+  {
+    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927233032",
+    "horario": ""
+  },
+  {
+    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927233032",
+    "horario": ""
+  },
+  {
+    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927233032",
+    "horario": ""
+  },
+  {
+    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "927233032",
+    "horario": ""
+  },
+  {
+    "nombre": "Facebook Instagram El Colegio Dirección y contacto Bienvenida Historia Estatutos Organización Código deontologico Laboratorio Vocalías Red eReceita Transparencia Comunicación Actualidad Agenda Ventanilla única Solicitud genérica Alta de Colegiación Precolegiación Solicitud de sugerencias y reclamaciones Directorio de colegiados Buscador de farmacias Buscador de farmacias de guardia Consumidores y Usuarios Servicios profesionales farmacéuticos Audioprótesis Fórmulas Magistrales Fórmulas magistrales a terceros SPDs SPDs SERGAS Ortopedia Óptica Observatorio de Agresiones a Farmacéuticos Canal de denuncias Bolsa de trabajo Ofertas de trabajo Demandas de trabajo Área del colegiado Convenios ABANCA A.M.A. Convenios Convenios ABANCA A.M.A. Seleccionar página COFOURENSE Buscador de Farmacias de Guardia Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL Buscador de farmacias C/ Ramon Cabanillas nº2 piso 1º 32004 Ourense (España) Telefono: 988229260 E-mail: cofinformatica@redfarma.org EL COLEGIO Dirección y contacto Bienvenida Historia Estatutos Organización Código Deontológico (ES) Código de deontoloxia (GA) TRANSPARENCIA Memoria de gestión Presupuestos Cuotas de colegiación El colegio en cifras Colegio Oficial de Farmacéuticos de Ourense Aviso legal Política de privacidad Política de cookies Facebook Instagram",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "988229260",
+    "horario": ""
+  },
+  {
+    "nombre": "COFOURENSE Buscador de Farmacias de Guardia Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL Buscador de farmacias C/ Ramon Cabanillas nº2 piso 1º 32004 Ourense (España) Telefono: 988229260 E-mail: cofinformatica@redfarma.org EL COLEGIO Dirección y contacto Bienvenida Historia Estatutos Organización Código Deontológico (ES) Código de deontoloxia (GA) TRANSPARENCIA Memoria de gestión Presupuestos Cuotas de colegiación El colegio en cifras Colegio Oficial de Farmacéuticos de Ourense Aviso legal Política de privacidad Política de cookies Facebook Instagram",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "988229260",
+    "horario": ""
+  },
+  {
+    "nombre": "10 Localizar farmacias en el mapa: (CP, dirección o municipio) Buscar Filtros rápidos: Guardia en la capital Guardia nocturna en la capital Guardia en la provincia Farmacias de guardia del: Loading… febrero de 2026 lu. ma. mi. ju. vi. sá. do. 05 26 27 28 29 30 31 1 06 2 3 4 5 6 7 8 07 9 10 11 12 13 14 15 08 16 17 18 19 20 21 22 09 23 24 25 26 27 28 1 10 2 3 4 5 6 7 8 Ene. Feb. Mar. Abr. May. Jun. Jul. Ago. Sep. Oct. Nov. Dic. Today Clear Buscar Farmacias de guardia en Valladolid (Capital) Horario: laborables de 9:30 a 22:00 - sábados, domingos y festivos de 10:00 a 22:00 Fecha: 15/02/2026 Farmacia Ver Ficha Calle Regalado , 3 (Zona: CENTRO-GAMAZO) Calle Huelva , 16 (Zona: CANTERAC) Calle Alonso Pesquera , 1 (Zona: PLAZA CIRCULAR) Calle Manuel Azaña , 27 (Zona: PARQUESOL) Calle Mirabel , 28 (Zona: RONDILLA I) Paseo de Zorrilla , 5 (Zona: CAMPO GRANDE) Loading… Farmacias de guardia nocturna en Valladolid (Capital) Horario: laborables de 22:00 a 9:30 - sábados, domingos y festivos de 22:00 a 10:00 Fecha: 15/02/2026 Farmacia Ver Ficha Calle General Shelly , 28 (Zona: DELICIAS II) Calle Marina Escobar , 7 (Zona: CENTRO-GAMAZO) Paseo de Zorrilla , 127 (Zona: ARTURO EYRIES) Loading… Farmacias de guardia en la provincia de Valladolid . . Diurna : hasta las 22:00 . . . Día y noche: 24 horas . Guardia no presencial (localizada) Fecha: 15/02/2026 Municipio CP Farmacia Ver Ficha Arroyo de la Encomienda 47195 Calle Hernando de Soto , 1 (Zona: PISUERGA) Llamar 644019739 1 Iscar 47420 Calle Real , 5 (Zona: ISCAR) Llamar 679868425 - 650016411 2 Laguna de Duero 47140 Calle Pensamiento , 40 (Zona: LAGUNA DE DUERO) Llamar 2 Medina de Rioseco 47800 Calle San Juan , 2 (Zona: MEDINA DE RIOSECO) Llamar 676825736 2 Medina del Campo 47400 Calle Las Farolas , 4 (Zona: MEDINA DEL CAMPO URBANO) Llamar 2 Peñafiel 47300 Avenida del Calvario s/n (Zona: PEÑAFIEL) Llamar 663086309 2 Tordesillas 47100 Carretera Madrid-Coruña , 7 (Zona: TORDESILLAS) Llamar 615953266 2 Tudela de Duero 47320 Calle San Roque , 16 (Zona: TUDELA DE DUERO) Llamar 696135877 2 Loading… Editar Artículo: OK Loading…",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "644019739",
+    "horario": ""
+  },
+  {
+    "nombre": "Municipio CP Farmacia Ver Ficha Arroyo de la Encomienda 47195 Calle Hernando de Soto , 1 (Zona: PISUERGA) Llamar 644019739 1 Iscar 47420 Calle Real , 5 (Zona: ISCAR) Llamar 679868425 - 650016411 2 Laguna de Duero 47140 Calle Pensamiento , 40 (Zona: LAGUNA DE DUERO) Llamar 2 Medina de Rioseco 47800 Calle San Juan , 2 (Zona: MEDINA DE RIOSECO) Llamar 676825736 2 Medina del Campo 47400 Calle Las Farolas , 4 (Zona: MEDINA DEL CAMPO URBANO) Llamar 2 Peñafiel 47300 Avenida del Calvario s/n (Zona: PEÑAFIEL) Llamar 663086309 2 Tordesillas 47100 Carretera Madrid-Coruña , 7 (Zona: TORDESILLAS) Llamar 615953266 2 Tudela de Duero 47320 Calle San Roque , 16 (Zona: TUDELA DE DUERO) Llamar 696135877 2 Loading…",
+    "direccion": "",
+    "municipio": "",
+    "telefono": "644019739",
+    "horario": ""
+  }
+]
