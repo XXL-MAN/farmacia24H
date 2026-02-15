@@ -533,8 +533,8 @@
     "map_url": "https://maps.google.com/maps?ll=42.854342,-2.65221&z=10&t=m&hl=es&gl=US&mapclient=apiv3",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": "",
+    "lng": ""
   },
   {
     "nombre": "Combinaciones de teclas",
@@ -542,8 +542,8 @@
     "map_url": "https://www.google.com/maps/@42.8543418,-2.6522101,10z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": "",
+    "lng": ""
   },
   {
     "nombre": "FERNANDEZ DE TROCONIZ FERNANDEZ, PABLO",
@@ -560,8 +560,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.2616354,-2.9328839",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": 42.5929357,
+    "lng": -2.8007284
   },
   {
     "nombre": "JIMENEZ & REMENTERIA, YARA & LEIRE",
@@ -569,8 +569,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8531869,-2.6732421",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": 43.318237,
+    "lng": -1.9817051
   },
   {
     "nombre": "ACHAERANDIO DIAZ DE GUEREÑU, BEATRIZ",
@@ -614,8 +614,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.5048909,-2.4329042",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 43.1203938,
-    "lng": -3.131936
+    "lat": 37.4810266,
+    "lng": -5.954642199999999
   },
   {
     "nombre": "RUIZ DE EGUINO CAMPO, LEIRE",
@@ -623,8 +623,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.8897047,-2.4695471",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": 43.3634799,
+    "lng": -5.8501015
   },
   {
     "nombre": "MOSTEIRO BALOIRA, MARGARITA",
@@ -632,8 +632,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.7129197,-2.9168543",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.7129197,
-    "lng": -2.9168543
+    "lat": 42.6839611,
+    "lng": -2.9459101
   },
   {
     "nombre": "URBIETA LAVIADA, ANA MARIA",
@@ -641,8 +641,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=43.0410155,-2.6554378",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": 43.0405202,
+    "lng": -2.6556879
   },
   {
     "nombre": "TENDERO BAIMA, MARTA",
@@ -650,8 +650,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.6275603,-2.4991327",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.9099989,
-    "lng": -2.6983868
+    "lat": "",
+    "lng": ""
   },
   {
     "nombre": "IBARROLA GANZABAL, GORETTI",
@@ -659,8 +659,8 @@
     "map_url": "https://www.google.com/maps/dir/?api=1&destination=42.9938493,-3.0101005",
     "provincia": "Álava",
     "fuente": "COF Álava DOM",
-    "lat": 42.5249806,
-    "lng": -2.4074516
+    "lat": 42.06170059999999,
+    "lng": -1.6058679
   },
   {
     "nombre": "PEREDA GARCIA, JOSE LUIS",
@@ -684,8 +684,8 @@
     "direccion": "CTRA. NACIONAL 340, 86 LOCAL 2 - HUERCAL-OVERA - 04600 - ALMERIA - ESPAÑA",
     "provincia": "Almería",
     "fuente": "COF Almería Oficial P1",
-    "lat": 37.3961957,
-    "lng": -1.9390555
+    "lat": 37.9752423,
+    "lng": -1.2369962
   },
   {
     "nombre": "BERMUDEZ JIMENEZ ELOISA",
@@ -1044,8 +1044,8 @@
     "direccion": "Calle MOLINO NUEVO, Nº 1",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9855905,
-    "lng": -0.0496388,
+    "lat": 37.2106983,
+    "lng": -3.6074892,
     "fuente": "DipCas API"
   },
   {
@@ -1053,8 +1053,8 @@
     "direccion": "Plaza AUSIAS MARCH, Nº 4",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.7545286,
-    "lng": -0.2257812,
+    "lat": 38.9321433,
+    "lng": -0.1873939,
     "fuente": "DipCas API"
   },
   {
@@ -1071,8 +1071,8 @@
     "direccion": "Calle REPUBLICA ARGENTINA, Nº 47",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9812292,
-    "lng": -0.0458769,
+    "lat": "",
+    "lng": "",
     "fuente": "DipCas API"
   },
   {
@@ -1080,8 +1080,8 @@
     "direccion": "Plaza ESPAÑA, Nº 13",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9638583,
-    "lng": -0.2625483,
+    "lat": 36.5346457,
+    "lng": -6.2938835,
     "fuente": "DipCas API"
   },
   {
@@ -1089,8 +1089,8 @@
     "direccion": "Calle DE LOS MARTIRES, Nº 25",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.5363169,
-    "lng": -0.3590368,
+    "lat": 37.7621438,
+    "lng": -3.9566298,
     "fuente": "DipCas API"
   },
   {
@@ -1098,8 +1098,8 @@
     "direccion": "Calle SAN FELIPE DE NERI, Nº 2",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9471487,
-    "lng": -0.0649369,
+    "lat": -17.4369164,
+    "lng": -66.1587676,
     "fuente": "DipCas API"
   },
   {
@@ -1107,8 +1107,8 @@
     "direccion": "Carretera VALENCIA, Nº 7",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9855905,
-    "lng": -0.0496388,
+    "lat": 41.115593,
+    "lng": 1.2040081,
     "fuente": "DipCas API"
   },
   {
@@ -1116,8 +1116,8 @@
     "direccion": "AVENIDA DIAGONAL, Nº 4",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.84837539999999,
-    "lng": -0.159637,
+    "lat": 41.4114833,
+    "lng": 2.2182054,
     "fuente": "DipCas API"
   },
   {
@@ -1134,8 +1134,8 @@
     "direccion": "AVENIDA EL FARO, Nº 49",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9855905,
-    "lng": -0.0496388,
+    "lat": 36.1885448,
+    "lng": -5.9198602,
     "fuente": "DipCas API"
   },
   {
@@ -1143,8 +1143,8 @@
     "direccion": "Calle SAN FRANCISCO, Nº 6",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9841317,
-    "lng": -0.0414126,
+    "lat": 42.8471558,
+    "lng": -2.6705167,
     "fuente": "DipCas API"
   },
   {
@@ -1152,8 +1152,8 @@
     "direccion": "Calle AULAS, Nº 1",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.1325833,
-    "lng": -0.4187952,
+    "lat": 38.8912759,
+    "lng": -3.7156921,
     "fuente": "DipCas API"
   },
   {
@@ -1161,8 +1161,8 @@
     "direccion": "Calle HERNAN CORTES, Nº 45",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.8966808,
-    "lng": -0.1100387,
+    "lat": 43.4631283,
+    "lng": -3.7991254,
     "fuente": "DipCas API"
   },
   {
@@ -1170,8 +1170,8 @@
     "direccion": "Calle SANTO TOMAS, Nº 94",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.0557765,
-    "lng": 0.0651981,
+    "lat": 43.3792292,
+    "lng": -8.4031579,
     "fuente": "DipCas API"
   },
   {
@@ -1197,8 +1197,8 @@
     "direccion": "Alameda, aldea DE LOS MARTIRES, Nº 29",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.1451772,
-    "lng": -0.1494988,
+    "lat": 37.2079057,
+    "lng": -4.6573055,
     "fuente": "DipCas API"
   },
   {
@@ -1206,8 +1206,8 @@
     "direccion": "Plaza MAYOR, Nº 10",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.5099036,
-    "lng": 0.3308178,
+    "lat": 39.4752301,
+    "lng": -6.3716263,
     "fuente": "DipCas API"
   },
   {
@@ -1215,8 +1215,8 @@
     "direccion": "Calle CALVARIO, Nº 18",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.7831802,
-    "lng": -0.1847154,
+    "lat": 40.5782938,
+    "lng": -4.0049832,
     "fuente": "DipCas API"
   },
   {
@@ -1242,8 +1242,8 @@
     "direccion": "Plaza MAYOR, Nº 22",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.0552401,
-    "lng": -0.4623242,
+    "lat": 39.4752301,
+    "lng": -6.3716263,
     "fuente": "DipCas API"
   },
   {
@@ -1251,8 +1251,8 @@
     "direccion": "Calle PONCIO TORRELLAS, Nº 6",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 40.156183,
-    "lng": 0.0421701,
+    "lat": 41.9078672,
+    "lng": -1.7261615,
     "fuente": "DipCas API"
   },
   {
@@ -1269,8 +1269,8 @@
     "direccion": "Camino SAN JOSE, Nº 2",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9789631,
-    "lng": -0.0341156,
+    "lat": 38.7710199,
+    "lng": -2.2392705,
     "fuente": "DipCas API"
   },
   {
@@ -1278,8 +1278,8 @@
     "direccion": "Calle IGLESIA, Nº 24",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.8620204,
-    "lng": -0.4750487,
+    "lat": 41.2815659,
+    "lng": 1.9781557,
     "fuente": "DipCas API"
   },
   {
@@ -1305,8 +1305,8 @@
     "direccion": "Plaza ESPAÑA, Nº 6",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9638583,
-    "lng": -0.2625483,
+    "lat": 43.3603007,
+    "lng": -5.852265,
     "fuente": "DipCas API"
   },
   {
@@ -1314,8 +1314,8 @@
     "direccion": "AVENIDA DE LA MAR, Nº 26",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.7337515,
-    "lng": -0.1865348,
+    "lat": 36.1931421,
+    "lng": -5.9191412,
     "fuente": "DipCas API"
   },
   {
@@ -1323,8 +1323,8 @@
     "direccion": "Calle COLON, Nº 44",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9868925,
-    "lng": -0.038879,
+    "lat": 39.4691151,
+    "lng": -0.3716442,
     "fuente": "DipCas API"
   },
   {
@@ -1341,8 +1341,8 @@
     "direccion": "Calle CALVARIO, Nº 171",
     "municipio": "",
     "provincia": "Castellón",
-    "lat": 39.9463854,
-    "lng": -0.0956735,
+    "lat": 28.4851531,
+    "lng": -16.4031645,
     "fuente": "DipCas API"
   },
   {
@@ -1391,8 +1391,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (07:00-23:00 H)",
-    "lat": 40.4927751,
-    "lng": -3.5933761,
+    "lat": 40.3814612,
+    "lng": -3.6633637,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1401,8 +1401,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (07:00-23:00 H)",
-    "lat": 40.464225,
-    "lng": -3.5703779,
+    "lat": 40.463642,
+    "lng": -3.5713356,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1431,8 +1431,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.3894688,
-    "lng": -3.7343652,
+    "lat": 36.3981645,
+    "lng": -6.1739143,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1451,8 +1451,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4112638,
-    "lng": -3.7353804,
+    "lat": 39.3772509,
+    "lng": -5.3916074,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1481,8 +1481,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4212207,
-    "lng": -3.707851299999999,
+    "lat": 41.6704143,
+    "lng": 0.6066077999999999,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1501,8 +1501,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.431146,
-    "lng": -3.6567388,
+    "lat": 40.414344,
+    "lng": -3.702516,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1511,8 +1511,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.4162199,
-    "lng": -3.7061797,
+    "lat": 37.9726959,
+    "lng": -1.20853,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1521,8 +1521,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4627833,
-    "lng": -3.6755708,
+    "lat": 39.4796514,
+    "lng": -0.3908664,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1531,8 +1531,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.44932560000001,
-    "lng": -3.6895288,
+    "lat": 41.4626319,
+    "lng": 2.0652927,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1541,8 +1541,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4574133,
-    "lng": -3.6518388,
+    "lat": -35.675147,
+    "lng": -71.542969,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1551,8 +1551,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.41672790000001,
-    "lng": -3.7032905,
+    "lat": 40.6955184,
+    "lng": -3.5129811,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1581,8 +1581,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.4520792,
-    "lng": -3.6853417,
+    "lat": 40.4064341,
+    "lng": -3.7373793,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1621,8 +1621,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.44083560000001,
-    "lng": -3.7178525,
+    "lat": 36.6897731,
+    "lng": -4.460604300000001,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1631,8 +1631,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4306834,
-    "lng": -3.7120058,
+    "lat": 38.9920607,
+    "lng": -1.8586667,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1661,8 +1661,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4344098,
-    "lng": -3.7130372,
+    "lat": 42.1461483,
+    "lng": -6.6083462,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1671,8 +1671,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.43481209999999,
-    "lng": -3.6999401,
+    "lat": 38.9701046,
+    "lng": -5.7917039,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1771,8 +1771,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4963018,
-    "lng": -3.720769799999999,
+    "lat": 40.4959032,
+    "lng": -3.721514299999999,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1871,8 +1871,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.406606,
-    "lng": -3.692963999999999,
+    "lat": 39.3637849,
+    "lng": -1.596726,
     "fuente": "Madrid RealTime"
   },
   {
@@ -1951,8 +1951,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO DIURNO (09:30-23:00 H)",
-    "lat": 40.4053007,
-    "lng": -3.6069615,
+    "lat": 40.5010129,
+    "lng": -3.5248651,
     "fuente": "Madrid RealTime"
   },
   {
@@ -2011,8 +2011,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.3777289,
-    "lng": -3.6204484,
+    "lat": 36.8622151,
+    "lng": -5.1771312,
     "fuente": "Madrid RealTime"
   },
   {
@@ -2021,8 +2021,8 @@
     "municipio": "MADRID",
     "provincia": "Madrid",
     "horario": "SERVICIO 24 HORAS (09:30-09:30 H DÍA SIGUIENTE)",
-    "lat": 40.3726768,
-    "lng": -3.6090358,
+    "lat": 40.6216077,
+    "lng": -4.0043296,
     "fuente": "Madrid RealTime"
   },
   {
@@ -2032,8 +2032,8 @@
     "provincia": "Navarra",
     "telefono": "948 364080",
     "horario": "9:00 - 22:00",
-    "lat": 42.5890323,
-    "lng": -1.7616715,
+    "lat": 28.1214832,
+    "lng": -16.7334616,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2054,8 +2054,8 @@
     "provincia": "Navarra",
     "telefono": "948 760039",
     "horario": "9:00 - 20:00",
-    "lat": 42.990466,
-    "lng": -1.3346719,
+    "lat": "",
+    "lng": "",
     "fuente": "Navarra Open Data"
   },
   {
@@ -2076,8 +2076,8 @@
     "provincia": "Navarra",
     "telefono": "948 890395",
     "horario": "9:00 - 20:00",
-    "lat": 42.88782880000001,
-    "lng": -1.0977441,
+    "lat": 40.3723251,
+    "lng": -3.6914958,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2087,8 +2087,8 @@
     "provincia": "Navarra",
     "telefono": "948537237",
     "horario": "9:00 - 22:00",
-    "lat": 42.6460488,
-    "lng": -2.0847853,
+    "lat": 41.648183,
+    "lng": -4.721589100000001,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2230,8 +2230,8 @@
     "provincia": "Navarra",
     "telefono": "948 564210",
     "horario": "9:00 - 9:00",
-    "lat": 42.8934968,
-    "lng": -2.1735009,
+    "lat": 18.4849451,
+    "lng": -69.9728433,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2241,8 +2241,8 @@
     "provincia": "Navarra",
     "telefono": "948690298",
     "horario": "9:00 - 9:00",
-    "lat": 42.3727992,
-    "lng": -1.9499187,
+    "lat": 40.4332428,
+    "lng": -3.7164991,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2252,8 +2252,8 @@
     "provincia": "Navarra",
     "telefono": "948 040118",
     "horario": "9:00 - 9:00",
-    "lat": 43.2799482,
-    "lng": -1.6886687,
+    "lat": 40.386686,
+    "lng": -3.9311846,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2263,8 +2263,8 @@
     "provincia": "Navarra",
     "telefono": "948 837020",
     "horario": "9:00 - 9:00",
-    "lat": 42.0820976,
-    "lng": -1.8044975,
+    "lat": 38.3449341,
+    "lng": -0.4929376,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2274,8 +2274,8 @@
     "provincia": "Navarra",
     "telefono": "948 800000",
     "horario": "9:00 - 9:00",
-    "lat": 41.9208915,
-    "lng": -1.4195666,
+    "lat": 37.67621,
+    "lng": -4.55812,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2285,8 +2285,8 @@
     "provincia": "Navarra",
     "telefono": "948 456169",
     "horario": "9:00 - 9:00",
-    "lat": 43.1315845,
-    "lng": -1.6691229,
+    "lat": 38.3448402,
+    "lng": -0.4825966,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2296,8 +2296,8 @@
     "provincia": "Navarra",
     "telefono": "948 657197",
     "horario": "9:00 - 9:00",
-    "lat": 42.5970428,
-    "lng": -2.3037582,
+    "lat": 39.4984622,
+    "lng": -1.8969276,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2307,8 +2307,8 @@
     "provincia": "Navarra",
     "telefono": "948 500105",
     "horario": "9:00 - 9:00",
-    "lat": 42.9190608,
-    "lng": -1.8283341,
+    "lat": 40.4176522,
+    "lng": -3.7068727,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2340,8 +2340,8 @@
     "provincia": "Navarra",
     "telefono": "948 731042",
     "horario": "9:00 - 9:00",
-    "lat": 42.3197053,
-    "lng": -1.5739065,
+    "lat": 42.4674004,
+    "lng": -2.4411847,
     "fuente": "Navarra Open Data"
   },
   {
@@ -2362,107 +2362,8 @@
     "provincia": "Navarra",
     "telefono": "948704122",
     "horario": "9:00 - 9:00",
-    "lat": 42.5296445,
-    "lng": -1.6738434,
+    "lat": 39.471327,
+    "lng": -0.3523865,
     "fuente": "Navarra Open Data"
-  },
-  {
-    "nombre": "Buscador de Farmacias Seleccione el Municipio Seleccionar municipio ABADIA ABERTURA ACEBO ACEHUCHE ACEITUNA AHIGAL ALAGON ALBALA ALCANTARA ALCUESCAR ALDEA DEL CANO ALDEA DEL OBISPO ALDEACENTENERA ALDEANUEVA DE LA VERA ALDEANUEVA DEL CAMINO ALIA ALISEDA ALMARAZ ALMOHARIN ALONSO DE OJEDA ARROYO DE LA LUZ ARROYOMOLINOS DE LA VERA ARROYOMOLINOS DE MONTANCHEZ Barco de Avila BARRADO BEJAR BELVIS DE MONROY BERZOCANA BOHONAL DE IBOR BROZAS CABAÑAS DEL CASTILLO CABEZABELLOSA CABEZUELA DEL VALLE CABRERO CACERES CALZADILLA CAMINOMORISCO CAMPO LUGAR CAÑAMERO CAÑAVERAL CARBAJO CARCABOSO CARRASCALEJO CASAR DE CACERES CASAR DE PALOMERO CASARES DE HURDES CASAS DE DON ANTONIO CASAS DE DON GOMEZ CASAS DE MILLAN CASAS DE MIRAVETE CASAS DEL CASTA?AR CASAS DEL MONTE CASATEJADA CASILLAS DE CORIA CASTAÑAR DE IBOR CECLAVIN CEDILLO CILLEROS CONQUISTA DE LA SIERRA CORIA CUACOS DE YUSTE DELEITOSA DESCARGAMARIA EL BATAN ELJAS ESCURIAL GALISTEO GARCIAZ GARGANTA LA OLLA GARGANTILLA GARROVILLAS GATA GORDO, EL GRANJA, LA GUADALUPE GUIJO DE CORIA GUIJO DE GRANADILLA GUIJO DE SANTA BARBARA HERGUIJUELA HERNAN PEREZ HERRERA DE ALCANTARA HERRERUELA HERVAS HINOJAL HOLGUERA HOYOS IBAHERNANDO JARAICEJO JARAIZ DE LA VERA JARANDILLA JERTE LA CUMBRE LA GARGANTA LA MOHEDA DE GATA LA PESGA LOGROSAN LOSAR DE LA VERA MADRIGAL DE LA VERA MADRIGALEJO MADROÑERA MAJADAS DE TIETAR MALPARTIDA DE CACERES MALPARTIDA DE PLASENCIA MARCHAGAZ MATA DE ALCANTARA MEMBRIO MIAJADAS MILLANES DE LA MATA MIRABEL MOHEDAS DE GRANADILLA MONROY MONTANCHEZ MONTEHERMOSO MORALEJA MORCILLO NAVACONCEJO NAVALMORAL DE LA MATA NAVALVILLAR DE IBOR NAVAS DEL MADROÑO NAVEZUELAS NUÑOMORAL OLIVA DE PLASENCIA Oropesa PALOMERO PASARON DE LA VERA PERALEDA DE LA MATA PERALEDA DE SAN ROMAN PERALES DEL PUERTO PINOFRANQUEADO PIORNAL PLASENCIA PLASENZUELA POBLACIONPRUEBA PORTAJE POZUELO DE ZARZON PUEBLA DE ARGEME PUEBLONUEVO DE MIRAMONTES PUERTO DE SANTA CRUZ RIOLOBOS ROBLEDILLO DE LA VERA ROBLEDILLO DE TRUJILLO ROBLEDOLLANO ROSALEJO ROTURAS (CABAÑAS DEL CASTILLO) SALORINO SALVATIERRA DE SANTIAGO SAN MARTIN DE TREVEJO SANTA  ANA SANTA CRUZ DE LA SIERRA SANTA CRUZ DE PANIAGUA SANTIAGO DE ALCANTARA SANTIAGO DEL CAMPO SANTIBAÑEZ EL ALTO SANTIBAÑEZ EL BAJO SAUCEDILLA SEGURA DE TORO SERRADILLA SIERRA DE FUENTES TALAVAN TALAVERUELA DE LA VERA TALAYUELA TEJEDA DE TIETAR TIETAR TORNAVACAS TORNO, EL TORRE DE D. MIGUEL TORRE DE SANTA MARIA TORRECILLA DE LA TIESA TORRECILLA DE LOS ANGELES TORREJON EL RUBIO TORREJONCILLO TORREMENGA TORREMOCHA TORREORGAZ TORREQUEMADA TRUJILLO VALDASTILLAS VALDEFUENTES VALDELACASA DE TAJO VALDEMORALES VALDEOBISPO VALENCIA DE ALCANTARA VALVERDE DE LA VERA VALVERDE DEL FRESNO VEGAVIANA VIANDAR DE LA VERA VILLA DEL CAMPO VILLAMESIAS VILLAMIEL VILLANUEVA DE LA SIERRA VILLANUEVA DE LA VERA VILLAR DEL PEDROSO VILLASBUENAS DE GATA ZARZA DE GRANADILLA ZARZA DE MONTANCHEZ ZARZA LA MAYOR ZORITA Solo abiertas Buscar Farmacias cerca de Mi Solo abiertas Buscar Listado de farmacias ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar ‹ 1 2 3 4 5 6 7 8 9 10 ... 14 15 ›",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927530278",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "Buscador de Farmacias Seleccione el Municipio Seleccionar municipio ABADIA ABERTURA ACEBO ACEHUCHE ACEITUNA AHIGAL ALAGON ALBALA ALCANTARA ALCUESCAR ALDEA DEL CANO ALDEA DEL OBISPO ALDEACENTENERA ALDEANUEVA DE LA VERA ALDEANUEVA DEL CAMINO ALIA ALISEDA ALMARAZ ALMOHARIN ALONSO DE OJEDA ARROYO DE LA LUZ ARROYOMOLINOS DE LA VERA ARROYOMOLINOS DE MONTANCHEZ Barco de Avila BARRADO BEJAR BELVIS DE MONROY BERZOCANA BOHONAL DE IBOR BROZAS CABAÑAS DEL CASTILLO CABEZABELLOSA CABEZUELA DEL VALLE CABRERO CACERES CALZADILLA CAMINOMORISCO CAMPO LUGAR CAÑAMERO CAÑAVERAL CARBAJO CARCABOSO CARRASCALEJO CASAR DE CACERES CASAR DE PALOMERO CASARES DE HURDES CASAS DE DON ANTONIO CASAS DE DON GOMEZ CASAS DE MILLAN CASAS DE MIRAVETE CASAS DEL CASTA?AR CASAS DEL MONTE CASATEJADA CASILLAS DE CORIA CASTAÑAR DE IBOR CECLAVIN CEDILLO CILLEROS CONQUISTA DE LA SIERRA CORIA CUACOS DE YUSTE DELEITOSA DESCARGAMARIA EL BATAN ELJAS ESCURIAL GALISTEO GARCIAZ GARGANTA LA OLLA GARGANTILLA GARROVILLAS GATA GORDO, EL GRANJA, LA GUADALUPE GUIJO DE CORIA GUIJO DE GRANADILLA GUIJO DE SANTA BARBARA HERGUIJUELA HERNAN PEREZ HERRERA DE ALCANTARA HERRERUELA HERVAS HINOJAL HOLGUERA HOYOS IBAHERNANDO JARAICEJO JARAIZ DE LA VERA JARANDILLA JERTE LA CUMBRE LA GARGANTA LA MOHEDA DE GATA LA PESGA LOGROSAN LOSAR DE LA VERA MADRIGAL DE LA VERA MADRIGALEJO MADROÑERA MAJADAS DE TIETAR MALPARTIDA DE CACERES MALPARTIDA DE PLASENCIA MARCHAGAZ MATA DE ALCANTARA MEMBRIO MIAJADAS MILLANES DE LA MATA MIRABEL MOHEDAS DE GRANADILLA MONROY MONTANCHEZ MONTEHERMOSO MORALEJA MORCILLO NAVACONCEJO NAVALMORAL DE LA MATA NAVALVILLAR DE IBOR NAVAS DEL MADROÑO NAVEZUELAS NUÑOMORAL OLIVA DE PLASENCIA Oropesa PALOMERO PASARON DE LA VERA PERALEDA DE LA MATA PERALEDA DE SAN ROMAN PERALES DEL PUERTO PINOFRANQUEADO PIORNAL PLASENCIA PLASENZUELA POBLACIONPRUEBA PORTAJE POZUELO DE ZARZON PUEBLA DE ARGEME PUEBLONUEVO DE MIRAMONTES PUERTO DE SANTA CRUZ RIOLOBOS ROBLEDILLO DE LA VERA ROBLEDILLO DE TRUJILLO ROBLEDOLLANO ROSALEJO ROTURAS (CABAÑAS DEL CASTILLO) SALORINO SALVATIERRA DE SANTIAGO SAN MARTIN DE TREVEJO SANTA  ANA SANTA CRUZ DE LA SIERRA SANTA CRUZ DE PANIAGUA SANTIAGO DE ALCANTARA SANTIAGO DEL CAMPO SANTIBAÑEZ EL ALTO SANTIBAÑEZ EL BAJO SAUCEDILLA SEGURA DE TORO SERRADILLA SIERRA DE FUENTES TALAVAN TALAVERUELA DE LA VERA TALAYUELA TEJEDA DE TIETAR TIETAR TORNAVACAS TORNO, EL TORRE DE D. MIGUEL TORRE DE SANTA MARIA TORRECILLA DE LA TIESA TORRECILLA DE LOS ANGELES TORREJON EL RUBIO TORREJONCILLO TORREMENGA TORREMOCHA TORREORGAZ TORREQUEMADA TRUJILLO VALDASTILLAS VALDEFUENTES VALDELACASA DE TAJO VALDEMORALES VALDEOBISPO VALENCIA DE ALCANTARA VALVERDE DE LA VERA VALVERDE DEL FRESNO VEGAVIANA VIANDAR DE LA VERA VILLA DEL CAMPO VILLAMESIAS VILLAMIEL VILLANUEVA DE LA SIERRA VILLANUEVA DE LA VERA VILLAR DEL PEDROSO VILLASBUENAS DE GATA ZARZA DE GRANADILLA ZARZA DE MONTANCHEZ ZARZA LA MAYOR ZORITA Solo abiertas Buscar Farmacias cerca de Mi Solo abiertas Buscar Listado de farmacias ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar ‹ 1 2 3 4 5 6 7 8 9 10 ... 14 15 ›",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927530278",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "ABAD PALLERO, ANA cerrada CL. DUQUE DE PE?ARANDA, 17, 10300, NAVALMORAL DE LA MATA 927530278, 927530278 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 09:30 hasta 13:30 17:00 hasta 20:00 Cómo llegar ABRIL HIDALGO, JUANA cerrada C/ BALCONES, 4, 10129, BERZOCANA 927150045 Horario Sábados 10:30 hasta 13:30 Lunes a Viernes 10:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar AGUILERA ESCALADA, SERGIO cerrada TRAV. CALVO SOTELO, 8, 10815, GUIJO DE CORIA 927449059 Horario Lunes a Viernes 09:30 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar ALEJANDRO PLUMA Y Mª JOSE PIÑERO cerrada CL. CASTILLA LEON, 38, 10626, NUÑOMORAL 927433234 Horario Lunes a Viernes 09:30 hasta 14:00 16:30 hasta 19:30 Diurna Cómo llegar ALVAREZ BRAGADO, JAVIER ELIAS abierta CL. REAL, 8, 10100, MIAJADAS 927347048, 927347048 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar ANA SANCHEZ CHAMORRO cerrada CL. ALTOZANO, 3, 10280, IBAHERNANDO 927330005 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ANDRADE IGLESIAS OBDULIA cerrada AVDA. HEROES DE BALER, 9, 10004, CACERES 927246044, 927246044 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar ANEGA DURAN, CELESTINO cerrada CL. DUQUESA DE LA VICTORIA, 34, 10500, VALENCIA DE ALCANTARA 927580124 Horario Sábados 09:30 hasta 14:00 17:00 hasta 19:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar APARICIO LOPEZ,  Mª  ENCARNACION abierta AVDA. SALAMANCA, 30 (JUNTO A MERCADONA), 10600, PLASENCIA 927421047 Horario Lunes a Viernes 00:00 hasta 23:59 Sábados 00:00 hasta 23:59 Domingos 00:00 hasta 23:59 Diurna Cómo llegar ARIAS VELAZQUEZ, INES Mª cerrada CL. ROSARIO SANCHEZ, 3, 10210, MADROÑERA 927335948, 924811339 Horario Sábados 10:00 hasta 13:30 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 19:30 Diurna Cómo llegar ARTURO BENITO DOMINGUEZ IGLESIAS cerrada CL. PRIMERO DE MAYO, 9, 10251, ALDEACENTENERA 927314047 Horario Lunes a Viernes 10:00 hasta 14:00 18:00 hasta 20:00 Cómo llegar BALEATO GOMEZ, ROSA MARIA cerrada AVDA. GLORIETA, 35, 10250, GARCIAZ 927332132, 927332132 Horario Sábados 10:00 hasta 13:00 Lunes a Viernes 09:30 hasta 13:00 17:00 hasta 19:00 Diurna Cómo llegar BARRIGA GRANDE, ESTRELLA cerrada CRTA C/V SAN ANTONIO , S/N, 10711, GRANJA, LA 927486540 Horario Lunes a Viernes 10:00 hasta 14:30 17:00 hasta 20:00 Diurna Cómo llegar BLANCA MERA, EUGENIO TOMAS cerrada AVDA. CRUZ DE LOS PAJARES, 44, 10100, MIAJADAS 927347302 Horario Lunes a Viernes 09:00 hasta 14:00 16:30 hasta 20:00 Diurna Cómo llegar BLANCO MORENO LUIS cerrada CL. LOS ROSALES, 3, 10666, ACEITUNA 927431007 Horario Lunes a Viernes 10:30 hasta 14:30 17:00 hasta 19:00 Diurna Cómo llegar BLAS MARTIN, JESUS cerrada CL. CALVO SOTELO, 9, 10360, CASAS DE MIRAVETE 927542502 Horario Lunes a Viernes 10:00 hasta 13:30 16:30 hasta 18:00 Diurna Cómo llegar BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar BORJA CEPEDA, ALICIA cerrada CL. CIRCUNVALACION S/N, 10271, PLASENZUELA 927313770 Horario Lunes a Viernes 09:00 hasta 14:00 16:00 hasta 18:00 Diurna Cómo llegar BOTE BLANCO, Mª MAR cerrada AVDA.  ALFONSO VIII, 11, 10600, PLASENCIA 927419982 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 20:00 Diurna Cómo llegar BOTE GARCIA, MARIA cerrada PLZ. LOS QUINTOS 18, 10187, ALBALA 927382073 Horario Lunes a Viernes 09:00 hasta 14:00 17:00 hasta 19:00 Diurna Cómo llegar",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927530278",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927233032",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927233032",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023 Cómo llegar",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927233032",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "BONILLA ARJONA, MAGDALENA cerrada AVDA .CONSTITUCION, S/N, 10005, CACERES 927233032 Horario Sábados 10:00 hasta 14:00 Lunes a Viernes 09:30 hasta 14:00 17:00 hasta 20:00 La farmacia permanecerá cerrada: 28,29, 30 de junio y 1 de julio de 2023. Del 15 al 31 de agosto de 2023",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "927233032",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "Facebook Instagram El Colegio Dirección y contacto Bienvenida Historia Estatutos Organización Código deontologico Laboratorio Vocalías Red eReceita Transparencia Comunicación Actualidad Agenda Ventanilla única Solicitud genérica Alta de Colegiación Precolegiación Solicitud de sugerencias y reclamaciones Directorio de colegiados Buscador de farmacias Buscador de farmacias de guardia Consumidores y Usuarios Servicios profesionales farmacéuticos Audioprótesis Fórmulas Magistrales Fórmulas magistrales a terceros SPDs SPDs SERGAS Ortopedia Óptica Observatorio de Agresiones a Farmacéuticos Canal de denuncias Bolsa de trabajo Ofertas de trabajo Demandas de trabajo Área del colegiado Convenios ABANCA A.M.A. Convenios Convenios ABANCA A.M.A. Seleccionar página COFOURENSE Buscador de Farmacias de Guardia Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL Buscador de farmacias C/ Ramon Cabanillas nº2 piso 1º 32004 Ourense (España) Telefono: 988229260 E-mail: cofinformatica@redfarma.org EL COLEGIO Dirección y contacto Bienvenida Historia Estatutos Organización Código Deontológico (ES) Código de deontoloxia (GA) TRANSPARENCIA Memoria de gestión Presupuestos Cuotas de colegiación El colegio en cifras Colegio Oficial de Farmacéuticos de Ourense Aviso legal Política de privacidad Política de cookies Facebook Instagram",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "988229260",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "COFOURENSE Buscador de Farmacias de Guardia Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 Significados iconos Guardia permanente Guardia diurna Horario: 09:30 – 22:00 Guardia nocturna Horario: 22:00 – 09:30 h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL h Lista MENSUAL GUARDIAS NOCTURNAS OURENSE CAPITAL Buscador de farmacias C/ Ramon Cabanillas nº2 piso 1º 32004 Ourense (España) Telefono: 988229260 E-mail: cofinformatica@redfarma.org EL COLEGIO Dirección y contacto Bienvenida Historia Estatutos Organización Código Deontológico (ES) Código de deontoloxia (GA) TRANSPARENCIA Memoria de gestión Presupuestos Cuotas de colegiación El colegio en cifras Colegio Oficial de Farmacéuticos de Ourense Aviso legal Política de privacidad Política de cookies Facebook Instagram",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "988229260",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "10 Localizar farmacias en el mapa: (CP, dirección o municipio) Buscar Filtros rápidos: Guardia en la capital Guardia nocturna en la capital Guardia en la provincia Farmacias de guardia del: Loading… febrero de 2026 lu. ma. mi. ju. vi. sá. do. 05 26 27 28 29 30 31 1 06 2 3 4 5 6 7 8 07 9 10 11 12 13 14 15 08 16 17 18 19 20 21 22 09 23 24 25 26 27 28 1 10 2 3 4 5 6 7 8 Ene. Feb. Mar. Abr. May. Jun. Jul. Ago. Sep. Oct. Nov. Dic. Today Clear Buscar Farmacias de guardia en Valladolid (Capital) Horario: laborables de 9:30 a 22:00 - sábados, domingos y festivos de 10:00 a 22:00 Fecha: 15/02/2026 Farmacia Ver Ficha Calle Regalado , 3 (Zona: CENTRO-GAMAZO) Calle Huelva , 16 (Zona: CANTERAC) Calle Alonso Pesquera , 1 (Zona: PLAZA CIRCULAR) Calle Manuel Azaña , 27 (Zona: PARQUESOL) Calle Mirabel , 28 (Zona: RONDILLA I) Paseo de Zorrilla , 5 (Zona: CAMPO GRANDE) Loading… Farmacias de guardia nocturna en Valladolid (Capital) Horario: laborables de 22:00 a 9:30 - sábados, domingos y festivos de 22:00 a 10:00 Fecha: 15/02/2026 Farmacia Ver Ficha Calle General Shelly , 28 (Zona: DELICIAS II) Calle Marina Escobar , 7 (Zona: CENTRO-GAMAZO) Paseo de Zorrilla , 127 (Zona: ARTURO EYRIES) Loading… Farmacias de guardia en la provincia de Valladolid . . Diurna : hasta las 22:00 . . . Día y noche: 24 horas . Guardia no presencial (localizada) Fecha: 15/02/2026 Municipio CP Farmacia Ver Ficha Arroyo de la Encomienda 47195 Calle Hernando de Soto , 1 (Zona: PISUERGA) Llamar 644019739 1 Iscar 47420 Calle Real , 5 (Zona: ISCAR) Llamar 679868425 - 650016411 2 Laguna de Duero 47140 Calle Pensamiento , 40 (Zona: LAGUNA DE DUERO) Llamar 2 Medina de Rioseco 47800 Calle San Juan , 2 (Zona: MEDINA DE RIOSECO) Llamar 676825736 2 Medina del Campo 47400 Calle Las Farolas , 4 (Zona: MEDINA DEL CAMPO URBANO) Llamar 2 Peñafiel 47300 Avenida del Calvario s/n (Zona: PEÑAFIEL) Llamar 663086309 2 Tordesillas 47100 Carretera Madrid-Coruña , 7 (Zona: TORDESILLAS) Llamar 615953266 2 Tudela de Duero 47320 Calle San Roque , 16 (Zona: TUDELA DE DUERO) Llamar 696135877 2 Loading… Editar Artículo: OK Loading…",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "644019739",
-    "horario": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
-    "nombre": "Municipio CP Farmacia Ver Ficha Arroyo de la Encomienda 47195 Calle Hernando de Soto , 1 (Zona: PISUERGA) Llamar 644019739 1 Iscar 47420 Calle Real , 5 (Zona: ISCAR) Llamar 679868425 - 650016411 2 Laguna de Duero 47140 Calle Pensamiento , 40 (Zona: LAGUNA DE DUERO) Llamar 2 Medina de Rioseco 47800 Calle San Juan , 2 (Zona: MEDINA DE RIOSECO) Llamar 676825736 2 Medina del Campo 47400 Calle Las Farolas , 4 (Zona: MEDINA DEL CAMPO URBANO) Llamar 2 Peñafiel 47300 Avenida del Calvario s/n (Zona: PEÑAFIEL) Llamar 663086309 2 Tordesillas 47100 Carretera Madrid-Coruña , 7 (Zona: TORDESILLAS) Llamar 615953266 2 Tudela de Duero 47320 Calle San Roque , 16 (Zona: TUDELA DE DUERO) Llamar 696135877 2 Loading…",
-    "direccion": "",
-    "municipio": "",
-    "telefono": "644019739",
-    "horario": "",
-    "lat": "",
-    "lng": ""
   }
 ]
