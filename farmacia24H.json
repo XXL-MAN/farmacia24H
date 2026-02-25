@@ -9720,24 +9720,25 @@
     "es_24h_estructural": false
   },
   {
-    "nombre": "",
+    "nombre": "Farmacia La Muela - Cristina Lasheras",
     "direccion": "C/ ZARAGOZA, 2-BIS - La Muela",
     "municipio": "La Muela",
     "provincia": "Zaragoza",
-    "telefono": "",
+    "telefono": "876 77 30 06",
     "horario_guardia": "Guardia según portal oficial",
-    "lat": "",
-    "lng": "",
+    "lat": 41.5808076,
+    "lng": -1.1135722,
     "fuente": "CGCOF GuardiasNew ASP",
     "horario": "",
     "horario_habitual": "",
     "tipo_servicio": "guardia",
-    "es_24h_google": false,
+    "es_24h_google": true,
     "gmaps_url": "",
     "geocode_confianza": "baja",
-    "geo_validated": false,
+    "geo_validated": true,
     "cp": "",
-    "poblacion": "La Muela"
+    "poblacion": "La Muela",
+    "es_24h_estructural": false
   },
   {
     "nombre": "Farmácia Ldo. José de los Santos",
